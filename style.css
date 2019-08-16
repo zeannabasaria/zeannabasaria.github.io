@@ -1,0 +1,39 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  background: yellow;
+  font-size: 40px;
+
+}
+p{
+  font-family: 'Patua One', cursive;
+  font-size: 50px;
+}
+/* PAGE HEADER */
+
+h1 {
+  color: pink;
+}
+  
+h2{
+  color: pink
+  ;
+}
+header,
+section,
+footer {
+  padding: 100px 150px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  margin: 0;
+}
